@@ -1,3 +1,1 @@
-#git merge push commit test
-
-	- test2
+#git pull test
